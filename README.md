@@ -1,2 +1,2 @@
 # Java-connect-game
-One of the first assignments here, at Georgian.
+One of the first assignments at Georgian.
